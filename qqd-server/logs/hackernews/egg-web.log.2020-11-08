@@ -1,0 +1,552 @@
+2020-11-08 13:24:30,083 INFO 86872 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 13:24:30,224 INFO 86872 [egg-multipart] stream mode enable
+2020-11-08 13:24:30,354 INFO 86872 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/qqd-server/app/public
+2020-11-08 13:24:30,369 INFO 86872 [egg-security] use csrf middleware
+2020-11-08 13:24:30,405 INFO 86872 [egg-security] use methodnoallow middleware
+2020-11-08 13:24:30,406 INFO 86872 [egg-security] use noopen middleware
+2020-11-08 13:24:30,407 INFO 86872 [egg-security] use nosniff middleware
+2020-11-08 13:24:30,408 INFO 86872 [egg-security] use xssProtection middleware
+2020-11-08 13:24:30,410 INFO 86872 [egg-security] use xframe middleware
+2020-11-08 13:24:30,411 INFO 86872 [egg-security] use dta middleware
+2020-11-08 13:24:30,411 INFO 86872 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 13:24:30,433 INFO 86872 [egg:core] dump config after load, 8ms
+2020-11-08 13:24:30,449 INFO 86872 [egg-watcher:application] watcher start success
+2020-11-08 13:24:30,458 INFO 86872 [egg:core] dump config after ready, 5ms
+2020-11-08 13:24:42,710 INFO 86941 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 13:24:42,758 INFO 86941 [egg-multipart] stream mode enable
+2020-11-08 13:24:42,952 INFO 86941 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/qqd-server/app/public
+2020-11-08 13:24:42,990 INFO 86941 [egg-security] use csrf middleware
+2020-11-08 13:24:42,991 INFO 86941 [egg-security] use methodnoallow middleware
+2020-11-08 13:24:42,991 INFO 86941 [egg-security] use noopen middleware
+2020-11-08 13:24:42,992 INFO 86941 [egg-security] use nosniff middleware
+2020-11-08 13:24:42,992 INFO 86941 [egg-security] use xssProtection middleware
+2020-11-08 13:24:42,992 INFO 86941 [egg-security] use xframe middleware
+2020-11-08 13:24:42,993 INFO 86941 [egg-security] use dta middleware
+2020-11-08 13:24:42,993 INFO 86941 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 13:24:43,022 INFO 86941 [egg:core] dump config after load, 15ms
+2020-11-08 13:24:43,033 INFO 86941 [egg-watcher:application] watcher start success
+2020-11-08 13:24:43,066 INFO 86941 [egg:core] dump config after ready, 6ms
+2020-11-08 13:26:01,033 INFO 87405 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 13:26:01,084 INFO 87405 [egg-multipart] stream mode enable
+2020-11-08 13:26:01,350 INFO 87405 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/qqd-server/app/public
+2020-11-08 13:26:01,354 INFO 87405 [egg-security] use csrf middleware
+2020-11-08 13:26:01,358 INFO 87405 [egg-security] use methodnoallow middleware
+2020-11-08 13:26:01,360 INFO 87405 [egg-security] use noopen middleware
+2020-11-08 13:26:01,362 INFO 87405 [egg-security] use nosniff middleware
+2020-11-08 13:26:01,365 INFO 87405 [egg-security] use xssProtection middleware
+2020-11-08 13:26:01,367 INFO 87405 [egg-security] use xframe middleware
+2020-11-08 13:26:01,369 INFO 87405 [egg-security] use dta middleware
+2020-11-08 13:26:01,369 INFO 87405 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 13:26:01,386 INFO 87405 [egg:core] dump config after load, 7ms
+2020-11-08 13:26:01,401 INFO 87405 [egg-watcher:application] watcher start success
+2020-11-08 13:26:01,418 INFO 87405 [egg:core] dump config after ready, 13ms
+2020-11-08 13:26:17,886 INFO 87520 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 13:26:17,924 INFO 87520 [egg-multipart] stream mode enable
+2020-11-08 13:26:17,925 INFO 87520 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 13:26:18,367 INFO 87520 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/qqd-server/app/public
+2020-11-08 13:26:18,369 INFO 87520 [egg-security] use csrf middleware
+2020-11-08 13:26:18,369 INFO 87520 [egg-security] use methodnoallow middleware
+2020-11-08 13:26:18,370 INFO 87520 [egg-security] use noopen middleware
+2020-11-08 13:26:18,371 INFO 87520 [egg-security] use nosniff middleware
+2020-11-08 13:26:18,371 INFO 87520 [egg-security] use xssProtection middleware
+2020-11-08 13:26:18,371 INFO 87520 [egg-security] use xframe middleware
+2020-11-08 13:26:18,372 INFO 87520 [egg-security] use dta middleware
+2020-11-08 13:26:18,372 INFO 87520 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 13:26:18,387 INFO 87520 [egg:core] dump config after load, 9ms
+2020-11-08 13:26:18,422 INFO 87520 [egg-watcher:application] watcher start success
+2020-11-08 13:26:18,426 INFO 87520 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 13:26:18 GMT+0800 (中國標準時間)
+2020-11-08 13:26:18,444 INFO 87520 [egg:core] dump config after ready, 11ms
+2020-11-08 13:33:26,234 INFO 89924 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 13:33:26,284 INFO 89924 [egg-multipart] stream mode enable
+2020-11-08 13:33:26,284 INFO 89924 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 13:33:26,839 INFO 89924 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/qqd-server/app/public
+2020-11-08 13:33:26,843 INFO 89924 [egg-security] use csrf middleware
+2020-11-08 13:33:26,845 INFO 89924 [egg-security] use methodnoallow middleware
+2020-11-08 13:33:26,847 INFO 89924 [egg-security] use noopen middleware
+2020-11-08 13:33:26,849 INFO 89924 [egg-security] use nosniff middleware
+2020-11-08 13:33:26,851 INFO 89924 [egg-security] use xssProtection middleware
+2020-11-08 13:33:26,854 INFO 89924 [egg-security] use xframe middleware
+2020-11-08 13:33:26,856 INFO 89924 [egg-security] use dta middleware
+2020-11-08 13:33:26,856 INFO 89924 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 13:33:26,871 INFO 89924 [egg:core] dump config after load, 5ms
+2020-11-08 13:33:26,891 INFO 89924 [egg-watcher:application] watcher start success
+2020-11-08 13:33:26,892 INFO 89924 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 13:33:26 GMT+0800 (中國標準時間)
+2020-11-08 13:33:26,900 INFO 89924 [egg:core] dump config after ready, 6ms
+2020-11-08 14:27:50,322 INFO 93326 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 14:27:50,358 INFO 93326 [egg-multipart] stream mode enable
+2020-11-08 14:27:50,359 INFO 93326 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 14:27:50,737 INFO 93326 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/qqd-server/app/public
+2020-11-08 14:27:50,741 INFO 93326 [egg-security] use csrf middleware
+2020-11-08 14:27:50,743 INFO 93326 [egg-security] use methodnoallow middleware
+2020-11-08 14:27:50,744 INFO 93326 [egg-security] use noopen middleware
+2020-11-08 14:27:50,747 INFO 93326 [egg-security] use nosniff middleware
+2020-11-08 14:27:50,748 INFO 93326 [egg-security] use xssProtection middleware
+2020-11-08 14:27:50,750 INFO 93326 [egg-security] use xframe middleware
+2020-11-08 14:27:50,752 INFO 93326 [egg-security] use dta middleware
+2020-11-08 14:27:50,752 INFO 93326 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 14:27:50,766 INFO 93326 [egg:core] dump config after load, 4ms
+2020-11-08 14:27:50,781 INFO 93326 [egg-watcher:application] watcher start success
+2020-11-08 14:27:50,787 INFO 93326 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 14:27:50 GMT+0800 (中國標準時間)
+2020-11-08 14:27:50,795 INFO 93326 [egg:core] dump config after ready, 6ms
+2020-11-08 14:29:29,306 INFO 93838 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 14:29:29,338 INFO 93838 [egg-multipart] stream mode enable
+2020-11-08 14:29:29,338 INFO 93838 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 14:29:29,508 INFO 93838 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/qqd-server/app/public
+2020-11-08 14:29:29,511 INFO 93838 [egg-security] use csrf middleware
+2020-11-08 14:29:29,512 INFO 93838 [egg-security] use methodnoallow middleware
+2020-11-08 14:29:29,513 INFO 93838 [egg-security] use noopen middleware
+2020-11-08 14:29:29,513 INFO 93838 [egg-security] use nosniff middleware
+2020-11-08 14:29:29,514 INFO 93838 [egg-security] use xssProtection middleware
+2020-11-08 14:29:29,514 INFO 93838 [egg-security] use xframe middleware
+2020-11-08 14:29:29,515 INFO 93838 [egg-security] use dta middleware
+2020-11-08 14:29:29,515 INFO 93838 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 14:29:29,527 INFO 93838 [egg:core] dump config after load, 6ms
+2020-11-08 14:29:29,550 INFO 93838 [egg-watcher:application] watcher start success
+2020-11-08 14:29:29,555 INFO 93838 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 14:29:29 GMT+0800 (中國標準時間)
+2020-11-08 14:29:29,570 INFO 93838 [egg:core] dump config after ready, 13ms
+2020-11-08 14:33:30,177 INFO 95141 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 14:33:30,204 INFO 95141 [egg-multipart] stream mode enable
+2020-11-08 14:33:30,205 INFO 95141 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 14:33:30,345 INFO 95141 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/qqd-server/app/public
+2020-11-08 14:33:30,348 INFO 95141 [egg-security] use csrf middleware
+2020-11-08 14:33:30,348 INFO 95141 [egg-security] use methodnoallow middleware
+2020-11-08 14:33:30,349 INFO 95141 [egg-security] use noopen middleware
+2020-11-08 14:33:30,350 INFO 95141 [egg-security] use nosniff middleware
+2020-11-08 14:33:30,350 INFO 95141 [egg-security] use xssProtection middleware
+2020-11-08 14:33:30,351 INFO 95141 [egg-security] use xframe middleware
+2020-11-08 14:33:30,351 INFO 95141 [egg-security] use dta middleware
+2020-11-08 14:33:30,351 INFO 95141 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 14:33:30,364 INFO 95141 [egg:core] dump config after load, 5ms
+2020-11-08 14:33:30,383 INFO 95141 [egg-watcher:application] watcher start success
+2020-11-08 14:33:30,385 INFO 95141 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 14:33:30 GMT+0800 (中國標準時間)
+2020-11-08 14:33:30,392 INFO 95141 [egg:core] dump config after ready, 5ms
+2020-11-08 14:34:29,350 INFO 95441 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 14:34:29,396 INFO 95441 [egg-multipart] stream mode enable
+2020-11-08 14:34:29,397 INFO 95441 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 14:34:29,945 INFO 95441 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/qqd-server/app/public
+2020-11-08 14:34:29,949 INFO 95441 [egg-security] use csrf middleware
+2020-11-08 14:34:29,954 INFO 95441 [egg-security] use methodnoallow middleware
+2020-11-08 14:34:29,956 INFO 95441 [egg-security] use noopen middleware
+2020-11-08 14:34:29,958 INFO 95441 [egg-security] use nosniff middleware
+2020-11-08 14:34:29,961 INFO 95441 [egg-security] use xssProtection middleware
+2020-11-08 14:34:29,963 INFO 95441 [egg-security] use xframe middleware
+2020-11-08 14:34:29,964 INFO 95441 [egg-security] use dta middleware
+2020-11-08 14:34:29,965 INFO 95441 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 14:34:29,979 INFO 95441 [egg:core] dump config after load, 5ms
+2020-11-08 14:34:30,000 INFO 95441 [egg-watcher:application] watcher start success
+2020-11-08 14:34:30,002 INFO 95441 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 14:34:29 GMT+0800 (中國標準時間)
+2020-11-08 14:34:30,010 INFO 95441 [egg:core] dump config after ready, 6ms
+2020-11-08 14:34:47,477 INFO 95532 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 14:34:47,535 INFO 95532 [egg-multipart] stream mode enable
+2020-11-08 14:34:47,536 INFO 95532 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 14:34:47,760 INFO 95532 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/qqd-server/app/public
+2020-11-08 14:34:47,762 INFO 95532 [egg-security] use csrf middleware
+2020-11-08 14:34:47,763 INFO 95532 [egg-security] use methodnoallow middleware
+2020-11-08 14:34:47,763 INFO 95532 [egg-security] use noopen middleware
+2020-11-08 14:34:47,764 INFO 95532 [egg-security] use nosniff middleware
+2020-11-08 14:34:47,764 INFO 95532 [egg-security] use xssProtection middleware
+2020-11-08 14:34:47,765 INFO 95532 [egg-security] use xframe middleware
+2020-11-08 14:34:47,765 INFO 95532 [egg-security] use dta middleware
+2020-11-08 14:34:47,766 INFO 95532 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 14:34:47,784 INFO 95532 [egg:core] dump config after load, 5ms
+2020-11-08 14:34:47,826 INFO 95532 [egg-watcher:application] watcher start success
+2020-11-08 14:34:47,829 INFO 95532 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 14:34:47 GMT+0800 (中國標準時間)
+2020-11-08 14:34:47,841 INFO 95532 [egg:core] dump config after ready, 5ms
+2020-11-08 16:14:51,379 INFO 1462 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 16:14:51,435 INFO 1462 [egg-multipart] stream mode enable
+2020-11-08 16:14:51,435 INFO 1462 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 16:14:51,905 INFO 1462 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/qqd-server/app/public
+2020-11-08 16:14:51,917 INFO 1462 [egg-security] use csrf middleware
+2020-11-08 16:14:51,921 INFO 1462 [egg-security] use methodnoallow middleware
+2020-11-08 16:14:51,923 INFO 1462 [egg-security] use noopen middleware
+2020-11-08 16:14:51,925 INFO 1462 [egg-security] use nosniff middleware
+2020-11-08 16:14:51,927 INFO 1462 [egg-security] use xssProtection middleware
+2020-11-08 16:14:51,929 INFO 1462 [egg-security] use xframe middleware
+2020-11-08 16:14:51,931 INFO 1462 [egg-security] use dta middleware
+2020-11-08 16:14:51,931 INFO 1462 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 16:14:51,970 INFO 1462 [egg:core] dump config after load, 17ms
+2020-11-08 16:14:52,082 INFO 1462 [egg-watcher:application] watcher start success
+2020-11-08 16:14:52,113 INFO 1462 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 16:14:52 GMT+0800 (中國標準時間)
+2020-11-08 16:14:52,124 INFO 1462 [egg:core] dump config after ready, 9ms
+2020-11-08 16:15:45,593 INFO 1738 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 16:15:45,631 INFO 1738 [egg-multipart] stream mode enable
+2020-11-08 16:15:45,632 INFO 1738 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 16:15:45,812 INFO 1738 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/qqd-server/app/public
+2020-11-08 16:15:45,815 INFO 1738 [egg-security] use csrf middleware
+2020-11-08 16:15:45,816 INFO 1738 [egg-security] use methodnoallow middleware
+2020-11-08 16:15:45,816 INFO 1738 [egg-security] use noopen middleware
+2020-11-08 16:15:45,817 INFO 1738 [egg-security] use nosniff middleware
+2020-11-08 16:15:45,817 INFO 1738 [egg-security] use xssProtection middleware
+2020-11-08 16:15:45,818 INFO 1738 [egg-security] use xframe middleware
+2020-11-08 16:15:45,818 INFO 1738 [egg-security] use dta middleware
+2020-11-08 16:15:45,819 INFO 1738 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 16:15:45,932 INFO 1738 [egg:core] dump config after load, 16ms
+2020-11-08 16:15:45,989 INFO 1738 [egg-watcher:application] watcher start success
+2020-11-08 16:15:45,995 INFO 1738 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 16:15:45 GMT+0800 (中國標準時間)
+2020-11-08 16:15:46,024 INFO 1738 [egg:core] dump config after ready, 18ms
+2020-11-08 16:23:16,549 WARN 1738 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-08 16:27:23,669 WARN 1738 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-08 16:27:23,669 WARN 1738 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-08 16:33:35,250 INFO 6884 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 16:33:35,279 INFO 6884 [egg-multipart] stream mode enable
+2020-11-08 16:33:35,280 INFO 6884 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 16:33:35,626 INFO 6884 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 16:33:35,629 INFO 6884 [egg-security] use csrf middleware
+2020-11-08 16:33:35,629 INFO 6884 [egg-security] use methodnoallow middleware
+2020-11-08 16:33:35,630 INFO 6884 [egg-security] use noopen middleware
+2020-11-08 16:33:35,631 INFO 6884 [egg-security] use nosniff middleware
+2020-11-08 16:33:35,631 INFO 6884 [egg-security] use xssProtection middleware
+2020-11-08 16:33:35,632 INFO 6884 [egg-security] use xframe middleware
+2020-11-08 16:33:35,634 INFO 6884 [egg-security] use dta middleware
+2020-11-08 16:33:35,634 INFO 6884 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 16:33:35,648 INFO 6884 [egg:core] dump config after load, 5ms
+2020-11-08 16:33:35,665 INFO 6884 [egg-watcher:application] watcher start success
+2020-11-08 16:33:35,668 INFO 6884 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 16:33:35 GMT+0800 (中國標準時間)
+2020-11-08 16:33:35,675 INFO 6884 [egg:core] dump config after ready, 5ms
+2020-11-08 18:33:33,165 WARN 6884 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-08 19:20:12,701 WARN 6884 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-08 21:20:50,071 WARN 6884 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-08 21:20:50,072 WARN 6884 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-08 21:59:03,345 WARN 6884 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-08 21:59:03,345 WARN 6884 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-08 22:35:04,552 WARN 6884 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-08 23:07:48,232 WARN 6884 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-08 23:14:39,802 INFO 36059 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:14:39,843 INFO 36059 [egg-multipart] stream mode enable
+2020-11-08 23:14:39,844 INFO 36059 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:14:40,457 INFO 36059 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:14:40,460 INFO 36059 [egg-security] use csrf middleware
+2020-11-08 23:14:40,462 INFO 36059 [egg-security] use methodnoallow middleware
+2020-11-08 23:14:40,464 INFO 36059 [egg-security] use noopen middleware
+2020-11-08 23:14:40,466 INFO 36059 [egg-security] use nosniff middleware
+2020-11-08 23:14:40,468 INFO 36059 [egg-security] use xssProtection middleware
+2020-11-08 23:14:40,470 INFO 36059 [egg-security] use xframe middleware
+2020-11-08 23:14:40,472 INFO 36059 [egg-security] use dta middleware
+2020-11-08 23:14:40,472 INFO 36059 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:14:40,489 INFO 36059 [egg:core] dump config after load, 6ms
+2020-11-08 23:14:40,508 INFO 36059 [egg-watcher:application] watcher start success
+2020-11-08 23:14:40,512 INFO 36059 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:14:40 GMT+0800 (中國標準時間)
+2020-11-08 23:14:40,519 INFO 36059 [egg:core] dump config after ready, 6ms
+2020-11-08 23:15:39,076 INFO 36376 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:15:39,129 INFO 36376 [egg-multipart] stream mode enable
+2020-11-08 23:15:39,130 INFO 36376 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:15:39,375 INFO 36376 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:15:39,379 INFO 36376 [egg-security] use csrf middleware
+2020-11-08 23:15:39,380 INFO 36376 [egg-security] use methodnoallow middleware
+2020-11-08 23:15:39,381 INFO 36376 [egg-security] use noopen middleware
+2020-11-08 23:15:39,381 INFO 36376 [egg-security] use nosniff middleware
+2020-11-08 23:15:39,382 INFO 36376 [egg-security] use xssProtection middleware
+2020-11-08 23:15:39,382 INFO 36376 [egg-security] use xframe middleware
+2020-11-08 23:15:39,383 INFO 36376 [egg-security] use dta middleware
+2020-11-08 23:15:39,383 INFO 36376 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:15:39,398 INFO 36376 [egg:core] dump config after load, 6ms
+2020-11-08 23:15:39,424 INFO 36376 [egg-watcher:application] watcher start success
+2020-11-08 23:15:39,427 INFO 36376 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:15:39 GMT+0800 (中國標準時間)
+2020-11-08 23:15:39,437 INFO 36376 [egg:core] dump config after ready, 6ms
+2020-11-08 23:16:42,596 INFO 36704 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:16:42,637 INFO 36704 [egg-multipart] stream mode enable
+2020-11-08 23:16:42,638 INFO 36704 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:16:42,837 INFO 36704 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:16:42,840 INFO 36704 [egg-security] use csrf middleware
+2020-11-08 23:16:42,840 INFO 36704 [egg-security] use methodnoallow middleware
+2020-11-08 23:16:42,841 INFO 36704 [egg-security] use noopen middleware
+2020-11-08 23:16:42,842 INFO 36704 [egg-security] use nosniff middleware
+2020-11-08 23:16:42,843 INFO 36704 [egg-security] use xssProtection middleware
+2020-11-08 23:16:42,844 INFO 36704 [egg-security] use xframe middleware
+2020-11-08 23:16:42,845 INFO 36704 [egg-security] use dta middleware
+2020-11-08 23:16:42,845 INFO 36704 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:16:42,860 INFO 36704 [egg:core] dump config after load, 6ms
+2020-11-08 23:16:42,883 INFO 36704 [egg-watcher:application] watcher start success
+2020-11-08 23:16:42,885 INFO 36704 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:16:42 GMT+0800 (中國標準時間)
+2020-11-08 23:16:42,895 INFO 36704 [egg:core] dump config after ready, 7ms
+2020-11-08 23:17:54,899 INFO 37076 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:17:54,943 INFO 37076 [egg-multipart] stream mode enable
+2020-11-08 23:17:54,945 INFO 37076 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:17:55,215 INFO 37076 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:17:55,218 INFO 37076 [egg-security] use csrf middleware
+2020-11-08 23:17:55,219 INFO 37076 [egg-security] use methodnoallow middleware
+2020-11-08 23:17:55,219 INFO 37076 [egg-security] use noopen middleware
+2020-11-08 23:17:55,220 INFO 37076 [egg-security] use nosniff middleware
+2020-11-08 23:17:55,220 INFO 37076 [egg-security] use xssProtection middleware
+2020-11-08 23:17:55,221 INFO 37076 [egg-security] use xframe middleware
+2020-11-08 23:17:55,223 INFO 37076 [egg-security] use dta middleware
+2020-11-08 23:17:55,223 INFO 37076 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:17:55,235 INFO 37076 [egg:core] dump config after load, 5ms
+2020-11-08 23:17:55,267 INFO 37076 [egg-watcher:application] watcher start success
+2020-11-08 23:17:55,271 INFO 37076 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:17:55 GMT+0800 (中國標準時間)
+2020-11-08 23:17:55,280 INFO 37076 [egg:core] dump config after ready, 7ms
+2020-11-08 23:18:11,002 INFO 37181 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:18:11,050 INFO 37181 [egg-multipart] stream mode enable
+2020-11-08 23:18:11,050 INFO 37181 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:18:11,276 INFO 37181 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:18:11,280 INFO 37181 [egg-security] use csrf middleware
+2020-11-08 23:18:11,281 INFO 37181 [egg-security] use methodnoallow middleware
+2020-11-08 23:18:11,281 INFO 37181 [egg-security] use noopen middleware
+2020-11-08 23:18:11,282 INFO 37181 [egg-security] use nosniff middleware
+2020-11-08 23:18:11,283 INFO 37181 [egg-security] use xssProtection middleware
+2020-11-08 23:18:11,283 INFO 37181 [egg-security] use xframe middleware
+2020-11-08 23:18:11,284 INFO 37181 [egg-security] use dta middleware
+2020-11-08 23:18:11,284 INFO 37181 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:18:11,299 INFO 37181 [egg:core] dump config after load, 8ms
+2020-11-08 23:18:11,326 INFO 37181 [egg-watcher:application] watcher start success
+2020-11-08 23:18:11,335 INFO 37181 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:18:11 GMT+0800 (中國標準時間)
+2020-11-08 23:18:11,349 INFO 37181 [egg:core] dump config after ready, 9ms
+2020-11-08 23:18:50,395 INFO 37368 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:18:50,425 INFO 37368 [egg-multipart] stream mode enable
+2020-11-08 23:18:50,425 INFO 37368 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:18:50,684 INFO 37368 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:18:50,694 INFO 37368 [egg-security] use csrf middleware
+2020-11-08 23:18:50,695 INFO 37368 [egg-security] use methodnoallow middleware
+2020-11-08 23:18:50,695 INFO 37368 [egg-security] use noopen middleware
+2020-11-08 23:18:50,696 INFO 37368 [egg-security] use nosniff middleware
+2020-11-08 23:18:50,697 INFO 37368 [egg-security] use xssProtection middleware
+2020-11-08 23:18:50,698 INFO 37368 [egg-security] use xframe middleware
+2020-11-08 23:18:50,699 INFO 37368 [egg-security] use dta middleware
+2020-11-08 23:18:50,699 INFO 37368 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:18:50,715 INFO 37368 [egg:core] dump config after load, 5ms
+2020-11-08 23:18:50,741 INFO 37368 [egg-watcher:application] watcher start success
+2020-11-08 23:18:50,746 INFO 37368 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:18:50 GMT+0800 (中國標準時間)
+2020-11-08 23:18:50,772 INFO 37368 [egg:core] dump config after ready, 16ms
+2020-11-08 23:19:33,716 INFO 37596 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:19:33,780 INFO 37596 [egg-multipart] stream mode enable
+2020-11-08 23:19:33,781 INFO 37596 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:19:33,996 INFO 37596 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:19:33,998 INFO 37596 [egg-security] use csrf middleware
+2020-11-08 23:19:33,999 INFO 37596 [egg-security] use methodnoallow middleware
+2020-11-08 23:19:34,000 INFO 37596 [egg-security] use noopen middleware
+2020-11-08 23:19:34,000 INFO 37596 [egg-security] use nosniff middleware
+2020-11-08 23:19:34,001 INFO 37596 [egg-security] use xssProtection middleware
+2020-11-08 23:19:34,001 INFO 37596 [egg-security] use xframe middleware
+2020-11-08 23:19:34,002 INFO 37596 [egg-security] use dta middleware
+2020-11-08 23:19:34,002 INFO 37596 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:19:34,017 INFO 37596 [egg:core] dump config after load, 6ms
+2020-11-08 23:19:34,048 INFO 37596 [egg-watcher:application] watcher start success
+2020-11-08 23:19:34,050 INFO 37596 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:19:34 GMT+0800 (中國標準時間)
+2020-11-08 23:19:34,062 INFO 37596 [egg:core] dump config after ready, 10ms
+2020-11-08 23:23:53,804 INFO 38906 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:23:53,837 INFO 38906 [egg-multipart] stream mode enable
+2020-11-08 23:23:53,837 INFO 38906 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:23:54,004 INFO 38906 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:23:54,007 INFO 38906 [egg-security] use csrf middleware
+2020-11-08 23:23:54,008 INFO 38906 [egg-security] use methodnoallow middleware
+2020-11-08 23:23:54,011 INFO 38906 [egg-security] use noopen middleware
+2020-11-08 23:23:54,012 INFO 38906 [egg-security] use nosniff middleware
+2020-11-08 23:23:54,013 INFO 38906 [egg-security] use xssProtection middleware
+2020-11-08 23:23:54,014 INFO 38906 [egg-security] use xframe middleware
+2020-11-08 23:23:54,014 INFO 38906 [egg-security] use dta middleware
+2020-11-08 23:23:54,014 INFO 38906 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:23:54,028 INFO 38906 [egg:core] dump config after load, 7ms
+2020-11-08 23:23:54,053 INFO 38906 [egg-watcher:application] watcher start success
+2020-11-08 23:23:54,056 INFO 38906 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:23:54 GMT+0800 (中國標準時間)
+2020-11-08 23:23:54,070 INFO 38906 [egg:core] dump config after ready, 10ms
+2020-11-08 23:24:08,906 INFO 39006 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:24:08,933 INFO 39006 [egg-multipart] stream mode enable
+2020-11-08 23:24:08,933 INFO 39006 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:24:09,263 INFO 39006 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:24:09,266 INFO 39006 [egg-security] use csrf middleware
+2020-11-08 23:24:09,267 INFO 39006 [egg-security] use methodnoallow middleware
+2020-11-08 23:24:09,268 INFO 39006 [egg-security] use noopen middleware
+2020-11-08 23:24:09,269 INFO 39006 [egg-security] use nosniff middleware
+2020-11-08 23:24:09,269 INFO 39006 [egg-security] use xssProtection middleware
+2020-11-08 23:24:09,271 INFO 39006 [egg-security] use xframe middleware
+2020-11-08 23:24:09,271 INFO 39006 [egg-security] use dta middleware
+2020-11-08 23:24:09,271 INFO 39006 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:24:09,286 INFO 39006 [egg:core] dump config after load, 6ms
+2020-11-08 23:24:09,308 INFO 39006 [egg-watcher:application] watcher start success
+2020-11-08 23:24:09,310 INFO 39006 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:24:09 GMT+0800 (中國標準時間)
+2020-11-08 23:24:09,317 INFO 39006 [egg:core] dump config after ready, 5ms
+2020-11-08 23:24:20,666 INFO 39062 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:24:20,700 INFO 39062 [egg-multipart] stream mode enable
+2020-11-08 23:24:20,700 INFO 39062 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:24:20,833 INFO 39062 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:24:20,836 INFO 39062 [egg-security] use csrf middleware
+2020-11-08 23:24:20,837 INFO 39062 [egg-security] use methodnoallow middleware
+2020-11-08 23:24:20,837 INFO 39062 [egg-security] use noopen middleware
+2020-11-08 23:24:20,838 INFO 39062 [egg-security] use nosniff middleware
+2020-11-08 23:24:20,838 INFO 39062 [egg-security] use xssProtection middleware
+2020-11-08 23:24:20,839 INFO 39062 [egg-security] use xframe middleware
+2020-11-08 23:24:20,839 INFO 39062 [egg-security] use dta middleware
+2020-11-08 23:24:20,839 INFO 39062 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:24:20,850 INFO 39062 [egg:core] dump config after load, 5ms
+2020-11-08 23:24:20,870 INFO 39062 [egg-watcher:application] watcher start success
+2020-11-08 23:24:20,873 INFO 39062 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:24:20 GMT+0800 (中國標準時間)
+2020-11-08 23:24:20,881 INFO 39062 [egg:core] dump config after ready, 6ms
+2020-11-08 23:25:16,062 INFO 39349 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:25:16,097 INFO 39349 [egg-multipart] stream mode enable
+2020-11-08 23:25:16,097 INFO 39349 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:25:16,355 INFO 39349 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:25:16,358 INFO 39349 [egg-security] use csrf middleware
+2020-11-08 23:25:16,358 INFO 39349 [egg-security] use methodnoallow middleware
+2020-11-08 23:25:16,359 INFO 39349 [egg-security] use noopen middleware
+2020-11-08 23:25:16,360 INFO 39349 [egg-security] use nosniff middleware
+2020-11-08 23:25:16,361 INFO 39349 [egg-security] use xssProtection middleware
+2020-11-08 23:25:16,363 INFO 39349 [egg-security] use xframe middleware
+2020-11-08 23:25:16,365 INFO 39349 [egg-security] use dta middleware
+2020-11-08 23:25:16,366 INFO 39349 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:25:16,387 INFO 39349 [egg:core] dump config after load, 10ms
+2020-11-08 23:25:16,418 INFO 39349 [egg-watcher:application] watcher start success
+2020-11-08 23:25:16,421 INFO 39349 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:25:16 GMT+0800 (中國標準時間)
+2020-11-08 23:25:16,434 INFO 39349 [egg:core] dump config after ready, 10ms
+2020-11-08 23:29:53,616 INFO 40750 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:29:53,656 INFO 40750 [egg-multipart] stream mode enable
+2020-11-08 23:29:53,656 INFO 40750 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:29:53,820 INFO 40750 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:29:53,823 INFO 40750 [egg-security] use csrf middleware
+2020-11-08 23:29:53,824 INFO 40750 [egg-security] use methodnoallow middleware
+2020-11-08 23:29:53,825 INFO 40750 [egg-security] use noopen middleware
+2020-11-08 23:29:53,825 INFO 40750 [egg-security] use nosniff middleware
+2020-11-08 23:29:53,826 INFO 40750 [egg-security] use xssProtection middleware
+2020-11-08 23:29:53,826 INFO 40750 [egg-security] use xframe middleware
+2020-11-08 23:29:53,827 INFO 40750 [egg-security] use dta middleware
+2020-11-08 23:29:53,827 INFO 40750 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:29:53,841 INFO 40750 [egg:core] dump config after load, 8ms
+2020-11-08 23:29:53,869 INFO 40750 [egg-watcher:application] watcher start success
+2020-11-08 23:29:53,872 INFO 40750 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:29:53 GMT+0800 (中國標準時間)
+2020-11-08 23:29:53,888 INFO 40750 [egg:core] dump config after ready, 11ms
+2020-11-08 23:30:14,948 INFO 40880 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:30:14,979 INFO 40880 [egg-multipart] stream mode enable
+2020-11-08 23:30:14,979 INFO 40880 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:30:15,127 INFO 40880 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:30:15,130 INFO 40880 [egg-security] use csrf middleware
+2020-11-08 23:30:15,130 INFO 40880 [egg-security] use methodnoallow middleware
+2020-11-08 23:30:15,131 INFO 40880 [egg-security] use noopen middleware
+2020-11-08 23:30:15,132 INFO 40880 [egg-security] use nosniff middleware
+2020-11-08 23:30:15,132 INFO 40880 [egg-security] use xssProtection middleware
+2020-11-08 23:30:15,133 INFO 40880 [egg-security] use xframe middleware
+2020-11-08 23:30:15,133 INFO 40880 [egg-security] use dta middleware
+2020-11-08 23:30:15,133 INFO 40880 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:30:15,145 INFO 40880 [egg:core] dump config after load, 5ms
+2020-11-08 23:30:15,169 INFO 40880 [egg-watcher:application] watcher start success
+2020-11-08 23:30:15,171 INFO 40880 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:30:15 GMT+0800 (中國標準時間)
+2020-11-08 23:30:15,185 INFO 40880 [egg:core] dump config after ready, 10ms
+2020-11-08 23:30:26,630 INFO 40935 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:30:26,664 INFO 40935 [egg-multipart] stream mode enable
+2020-11-08 23:30:26,665 INFO 40935 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:30:26,830 INFO 40935 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:30:26,833 INFO 40935 [egg-security] use csrf middleware
+2020-11-08 23:30:26,834 INFO 40935 [egg-security] use methodnoallow middleware
+2020-11-08 23:30:26,835 INFO 40935 [egg-security] use noopen middleware
+2020-11-08 23:30:26,837 INFO 40935 [egg-security] use nosniff middleware
+2020-11-08 23:30:26,837 INFO 40935 [egg-security] use xssProtection middleware
+2020-11-08 23:30:26,838 INFO 40935 [egg-security] use xframe middleware
+2020-11-08 23:30:26,838 INFO 40935 [egg-security] use dta middleware
+2020-11-08 23:30:26,838 INFO 40935 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:30:26,853 INFO 40935 [egg:core] dump config after load, 7ms
+2020-11-08 23:30:26,876 INFO 40935 [egg-watcher:application] watcher start success
+2020-11-08 23:30:26,879 INFO 40935 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:30:26 GMT+0800 (中國標準時間)
+2020-11-08 23:30:26,889 INFO 40935 [egg:core] dump config after ready, 4ms
+2020-11-08 23:31:16,489 INFO 41198 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:31:16,522 INFO 41198 [egg-multipart] stream mode enable
+2020-11-08 23:31:16,522 INFO 41198 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:31:16,661 INFO 41198 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:31:16,664 INFO 41198 [egg-security] use csrf middleware
+2020-11-08 23:31:16,665 INFO 41198 [egg-security] use methodnoallow middleware
+2020-11-08 23:31:16,665 INFO 41198 [egg-security] use noopen middleware
+2020-11-08 23:31:16,666 INFO 41198 [egg-security] use nosniff middleware
+2020-11-08 23:31:16,666 INFO 41198 [egg-security] use xssProtection middleware
+2020-11-08 23:31:16,667 INFO 41198 [egg-security] use xframe middleware
+2020-11-08 23:31:16,668 INFO 41198 [egg-security] use dta middleware
+2020-11-08 23:31:16,668 INFO 41198 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:31:16,679 INFO 41198 [egg:core] dump config after load, 6ms
+2020-11-08 23:31:16,701 INFO 41198 [egg-watcher:application] watcher start success
+2020-11-08 23:31:16,703 INFO 41198 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:31:16 GMT+0800 (中國標準時間)
+2020-11-08 23:31:16,711 INFO 41198 [egg:core] dump config after ready, 5ms
+2020-11-08 23:39:14,389 INFO 43709 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:39:14,418 INFO 43709 [egg-multipart] stream mode enable
+2020-11-08 23:39:14,419 INFO 43709 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:39:14,565 INFO 43709 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:39:14,567 INFO 43709 [egg-security] use csrf middleware
+2020-11-08 23:39:14,568 INFO 43709 [egg-security] use methodnoallow middleware
+2020-11-08 23:39:14,569 INFO 43709 [egg-security] use noopen middleware
+2020-11-08 23:39:14,569 INFO 43709 [egg-security] use nosniff middleware
+2020-11-08 23:39:14,570 INFO 43709 [egg-security] use xssProtection middleware
+2020-11-08 23:39:14,570 INFO 43709 [egg-security] use xframe middleware
+2020-11-08 23:39:14,571 INFO 43709 [egg-security] use dta middleware
+2020-11-08 23:39:14,571 INFO 43709 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:39:14,582 INFO 43709 [egg:core] dump config after load, 5ms
+2020-11-08 23:39:14,607 INFO 43709 [egg-watcher:application] watcher start success
+2020-11-08 23:39:14,608 INFO 43709 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:39:14 GMT+0800 (中國標準時間)
+2020-11-08 23:39:14,621 INFO 43709 [egg:core] dump config after ready, 9ms
+2020-11-08 23:39:38,408 INFO 43831 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:39:38,438 INFO 43831 [egg-multipart] stream mode enable
+2020-11-08 23:39:38,438 INFO 43831 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:39:38,563 INFO 43831 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:39:38,566 INFO 43831 [egg-security] use csrf middleware
+2020-11-08 23:39:38,566 INFO 43831 [egg-security] use methodnoallow middleware
+2020-11-08 23:39:38,567 INFO 43831 [egg-security] use noopen middleware
+2020-11-08 23:39:38,567 INFO 43831 [egg-security] use nosniff middleware
+2020-11-08 23:39:38,568 INFO 43831 [egg-security] use xssProtection middleware
+2020-11-08 23:39:38,568 INFO 43831 [egg-security] use xframe middleware
+2020-11-08 23:39:38,569 INFO 43831 [egg-security] use dta middleware
+2020-11-08 23:39:38,569 INFO 43831 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:39:38,580 INFO 43831 [egg:core] dump config after load, 5ms
+2020-11-08 23:39:38,599 INFO 43831 [egg-watcher:application] watcher start success
+2020-11-08 23:39:38,601 INFO 43831 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:39:38 GMT+0800 (中國標準時間)
+2020-11-08 23:39:38,609 INFO 43831 [egg:core] dump config after ready, 6ms
+2020-11-08 23:52:08,046 INFO 47855 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:52:08,078 INFO 47855 [egg-multipart] stream mode enable
+2020-11-08 23:52:08,079 INFO 47855 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:52:08,430 INFO 47855 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:52:08,433 INFO 47855 [egg-security] use csrf middleware
+2020-11-08 23:52:08,435 INFO 47855 [egg-security] use methodnoallow middleware
+2020-11-08 23:52:08,437 INFO 47855 [egg-security] use noopen middleware
+2020-11-08 23:52:08,439 INFO 47855 [egg-security] use nosniff middleware
+2020-11-08 23:52:08,440 INFO 47855 [egg-security] use xssProtection middleware
+2020-11-08 23:52:08,442 INFO 47855 [egg-security] use xframe middleware
+2020-11-08 23:52:08,444 INFO 47855 [egg-security] use dta middleware
+2020-11-08 23:52:08,444 INFO 47855 [egg-security] compose 7 middlewares into one security middleware
+2020-11-08 23:52:08,458 INFO 47855 [egg:core] dump config after load, 8ms
+2020-11-08 23:52:08,474 INFO 47855 [egg-watcher:application] watcher start success
+2020-11-08 23:52:08,477 INFO 47855 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:52:08 GMT+0800 (中國標準時間)
+2020-11-08 23:52:08,486 INFO 47855 [egg:core] dump config after ready, 7ms
+2020-11-08 23:54:57,121 INFO 48705 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:54:57,148 INFO 48705 [egg-multipart] stream mode enable
+2020-11-08 23:54:57,149 INFO 48705 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:54:57,287 INFO 48705 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:54:57,289 INFO 48705 [egg-security] use methodnoallow middleware
+2020-11-08 23:54:57,290 INFO 48705 [egg-security] use noopen middleware
+2020-11-08 23:54:57,291 INFO 48705 [egg-security] use nosniff middleware
+2020-11-08 23:54:57,291 INFO 48705 [egg-security] use xssProtection middleware
+2020-11-08 23:54:57,292 INFO 48705 [egg-security] use xframe middleware
+2020-11-08 23:54:57,292 INFO 48705 [egg-security] use dta middleware
+2020-11-08 23:54:57,292 INFO 48705 [egg-security] compose 6 middlewares into one security middleware
+2020-11-08 23:54:57,305 INFO 48705 [egg:core] dump config after load, 6ms
+2020-11-08 23:54:57,321 INFO 48705 [egg-watcher:application] watcher start success
+2020-11-08 23:54:57,324 INFO 48705 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:54:57 GMT+0800 (中國標準時間)
+2020-11-08 23:54:57,332 INFO 48705 [egg:core] dump config after ready, 6ms
+2020-11-08 23:55:23,169 INFO 48894 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:55:23,195 INFO 48894 [egg-multipart] stream mode enable
+2020-11-08 23:55:23,196 INFO 48894 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:55:23,322 INFO 48894 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:55:23,324 INFO 48894 [egg-security] use methodnoallow middleware
+2020-11-08 23:55:23,325 INFO 48894 [egg-security] use noopen middleware
+2020-11-08 23:55:23,326 INFO 48894 [egg-security] use nosniff middleware
+2020-11-08 23:55:23,326 INFO 48894 [egg-security] use xssProtection middleware
+2020-11-08 23:55:23,327 INFO 48894 [egg-security] use xframe middleware
+2020-11-08 23:55:23,327 INFO 48894 [egg-security] use dta middleware
+2020-11-08 23:55:23,327 INFO 48894 [egg-security] compose 6 middlewares into one security middleware
+2020-11-08 23:55:23,339 INFO 48894 [egg:core] dump config after load, 6ms
+2020-11-08 23:55:23,356 INFO 48894 [egg-watcher:application] watcher start success
+2020-11-08 23:55:23,359 INFO 48894 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:55:23 GMT+0800 (中國標準時間)
+2020-11-08 23:55:23,366 INFO 48894 [egg:core] dump config after ready, 4ms
+2020-11-08 23:57:27,026 INFO 49552 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-08 23:57:27,059 INFO 49552 [egg-multipart] stream mode enable
+2020-11-08 23:57:27,060 INFO 49552 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-08 23:57:27,277 INFO 49552 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-08 23:57:27,280 INFO 49552 [egg-security] use methodnoallow middleware
+2020-11-08 23:57:27,280 INFO 49552 [egg-security] use noopen middleware
+2020-11-08 23:57:27,281 INFO 49552 [egg-security] use nosniff middleware
+2020-11-08 23:57:27,281 INFO 49552 [egg-security] use xssProtection middleware
+2020-11-08 23:57:27,282 INFO 49552 [egg-security] use xframe middleware
+2020-11-08 23:57:27,282 INFO 49552 [egg-security] use dta middleware
+2020-11-08 23:57:27,282 INFO 49552 [egg-security] compose 6 middlewares into one security middleware
+2020-11-08 23:57:27,294 INFO 49552 [egg:core] dump config after load, 6ms
+2020-11-08 23:57:27,316 INFO 49552 [egg-watcher:application] watcher start success
+2020-11-08 23:57:27,321 INFO 49552 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 08 2020 23:57:27 GMT+0800 (中國標準時間)
+2020-11-08 23:57:27,335 INFO 49552 [egg:core] dump config after ready, 12ms
+2020-11-09 00:58:42,257 WARN 49552 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-09 02:59:26,670 WARN 49552 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-09 02:59:26,674 WARN 49552 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-09 02:59:57,509 INFO 49552 [egg-logrotator] clean all log before 31 days
+2020-11-09 02:59:58,423 INFO 49552 [egg-logrotator] broadcast log-reload
+2020-11-09 02:59:58,424 INFO 49552 [egg-logrotator] rotate files success by DayRotator, files ["/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/common-error.log -> /Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/common-error.log.2020-11-08","/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/hackernews-web.log -> /Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/hackernews-web.log.2020-11-08","/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/egg-web.log -> /Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/egg-web.log.2020-11-08","/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/egg-schedule.log -> /Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/egg-schedule.log.2020-11-08","/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/egg-agent.log -> /Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/egg-agent.log.2020-11-08"]

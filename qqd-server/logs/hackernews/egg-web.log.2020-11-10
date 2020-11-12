@@ -1,0 +1,32 @@
+2020-11-10 09:01:33,840 INFO 72384 [egg-logrotator] app logger reload: got log-reload message
+2020-11-10 09:18:32,906 WARN 72384 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-10 10:41:15,265 WARN 72384 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-10 22:27:18,180 INFO 66329 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-10 22:27:18,225 INFO 66329 [egg-multipart] stream mode enable
+2020-11-10 22:27:18,226 INFO 66329 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-10 22:27:18,789 INFO 66329 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-10 22:27:18,792 INFO 66329 [egg-security] use methodnoallow middleware
+2020-11-10 22:27:18,795 INFO 66329 [egg-security] use noopen middleware
+2020-11-10 22:27:18,797 INFO 66329 [egg-security] use nosniff middleware
+2020-11-10 22:27:18,799 INFO 66329 [egg-security] use xssProtection middleware
+2020-11-10 22:27:18,802 INFO 66329 [egg-security] use xframe middleware
+2020-11-10 22:27:18,804 INFO 66329 [egg-security] use dta middleware
+2020-11-10 22:27:18,805 INFO 66329 [egg-security] compose 6 middlewares into one security middleware
+2020-11-10 22:27:18,824 INFO 66329 [egg:core] dump config after load, 7ms
+2020-11-10 22:27:18,855 INFO 66329 [egg-watcher:application] watcher start success
+2020-11-10 22:27:18,873 INFO 66329 [egg-mysql] instance[0] status OK, rds currentTime: Tue Nov 10 2020 22:27:18 GMT+0800 (中國標準時間)
+2020-11-10 22:27:18,888 INFO 66329 [egg:core] dump config after ready, 9ms
+2020-11-10 23:47:23,777 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 00:23:59,661 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 01:01:04,015 WARN 66329 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-11 01:01:04,015 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 03:02:02,257 WARN 66329 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-11 03:02:02,257 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 05:02:40,007 WARN 66329 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-11 05:02:40,008 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 07:03:37,540 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 09:00:44,006 WARN 66329 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-11 09:00:44,006 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 09:29:26,859 INFO 66329 [egg-logrotator] clean all log before 31 days
+2020-11-11 09:29:27,840 INFO 66329 [egg-logrotator] broadcast log-reload
+2020-11-11 09:29:27,841 INFO 66329 [egg-logrotator] rotate files success by DayRotator, files ["/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/common-error.log -> /Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/common-error.log.2020-11-10","/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/hackernews-web.log -> /Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/hackernews-web.log.2020-11-10","/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/egg-web.log -> /Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/egg-web.log.2020-11-10","/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/egg-schedule.log -> /Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/egg-schedule.log.2020-11-10","/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/egg-agent.log -> /Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews/egg-agent.log.2020-11-10"]

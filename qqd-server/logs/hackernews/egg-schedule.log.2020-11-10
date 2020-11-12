@@ -1,0 +1,12 @@
+2020-11-10 22:27:18,223 INFO 66329 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-10 22:27:18,223 INFO 66329 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-10 22:27:18,223 INFO 66329 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-10 22:27:18,894 INFO 66321 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 21761109ms at 2020-11-11 04:30:00.003
+2020-11-10 22:27:18,895 INFO 66321 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 5561106ms at 2020-11-11 00:00:00.001
+2020-11-10 22:27:18,897 INFO 66321 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5562105ms at 2020-11-11 00:00:01.002
+2020-11-11 09:29:26,842 INFO 66321 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 52233161ms at 2020-11-12 00:00:00.003
+2020-11-11 09:29:26,844 INFO 66329 [Job#1605058166838735729589094301] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2020-11-11 09:29:26,859 INFO 66329 [Job#1605058166838735729589094301] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 13ms. 
+2020-11-11 09:29:27,836 INFO 66329 [Job#1605058167835735739558230531] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-11-11 09:29:27,841 INFO 66329 [Job#1605058167835735739558230531] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 5ms. 
+2020-11-11 09:29:27,838 INFO 66321 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 52233165ms at 2020-11-12 00:00:01.003

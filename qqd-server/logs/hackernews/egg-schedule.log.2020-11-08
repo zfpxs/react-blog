@@ -1,0 +1,120 @@
+2020-11-08 13:24:30,465 INFO 86867 [Timer] /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 54329539ms at 2020-11-09 04:30:00.004
+2020-11-08 13:24:30,465 INFO 86867 [Timer] /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38129535ms at 2020-11-09 00:00:00.000
+2020-11-08 13:24:30,465 INFO 86867 [Timer] /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38130535ms at 2020-11-09 00:00:01.000
+2020-11-08 13:24:30,222 INFO 86872 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 13:24:30,222 INFO 86872 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 13:24:30,222 INFO 86872 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 13:24:42,757 INFO 86941 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 13:24:42,757 INFO 86941 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 13:24:42,757 INFO 86941 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 13:26:01,083 INFO 87405 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 13:26:01,083 INFO 87405 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 13:26:01,083 INFO 87405 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 13:26:17,923 INFO 87520 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 13:26:17,924 INFO 87520 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 13:26:17,924 INFO 87520 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 13:33:26,283 INFO 89924 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 13:33:26,283 INFO 89924 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 13:33:26,283 INFO 89924 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 14:27:50,358 INFO 93326 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 14:27:50,358 INFO 93326 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 14:27:50,358 INFO 93326 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 14:29:29,337 INFO 93838 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 14:29:29,337 INFO 93838 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 14:29:29,337 INFO 93838 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 14:33:30,398 INFO 95135 [Timer] /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 50189604ms at 2020-11-09 04:30:00.002
+2020-11-08 14:33:30,399 INFO 95135 [Timer] /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33989602ms at 2020-11-09 00:00:00.001
+2020-11-08 14:33:30,399 INFO 95135 [Timer] /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33990601ms at 2020-11-09 00:00:01.000
+2020-11-08 14:33:30,204 INFO 95141 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 14:33:30,204 INFO 95141 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 14:33:30,204 INFO 95141 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 14:34:29,395 INFO 95441 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 14:34:29,395 INFO 95441 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 14:34:29,395 INFO 95441 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 14:34:47,535 INFO 95532 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 14:34:47,535 INFO 95532 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 14:34:47,535 INFO 95532 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 16:14:51,433 INFO 1462 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 16:14:51,433 INFO 1462 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 16:14:51,433 INFO 1462 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 16:15:45,631 INFO 1738 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 16:15:45,631 INFO 1738 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 16:15:45,631 INFO 1738 [egg-schedule]: register schedule /Users/zfp/Desktop/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 16:33:35,278 INFO 6884 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 16:33:35,278 INFO 6884 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 16:33:35,278 INFO 6884 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 16:33:35,681 INFO 6878 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42984321ms at 2020-11-09 04:30:00.002
+2020-11-08 16:33:35,681 INFO 6878 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 26784319ms at 2020-11-09 00:00:00.000
+2020-11-08 16:33:35,682 INFO 6878 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 26785319ms at 2020-11-09 00:00:01.001
+2020-11-08 23:14:39,842 INFO 36059 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:14:39,842 INFO 36059 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:14:39,842 INFO 36059 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:15:39,128 INFO 36376 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:15:39,128 INFO 36376 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:15:39,128 INFO 36376 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:16:42,636 INFO 36704 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:16:42,637 INFO 36704 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:16:42,637 INFO 36704 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:17:54,941 INFO 37076 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:17:54,941 INFO 37076 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:17:54,941 INFO 37076 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:18:11,049 INFO 37181 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:18:11,049 INFO 37181 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:18:11,049 INFO 37181 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:18:50,424 INFO 37368 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:18:50,424 INFO 37368 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:18:50,424 INFO 37368 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:19:33,778 INFO 37596 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:19:33,778 INFO 37596 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:19:33,778 INFO 37596 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:23:53,836 INFO 38906 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:23:53,836 INFO 38906 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:23:53,836 INFO 38906 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:24:08,932 INFO 39006 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:24:08,932 INFO 39006 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:24:08,932 INFO 39006 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:24:20,699 INFO 39062 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:24:20,699 INFO 39062 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:24:20,699 INFO 39062 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:25:16,096 INFO 39349 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:25:16,096 INFO 39349 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:25:16,096 INFO 39349 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:29:53,655 INFO 40750 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:29:53,655 INFO 40750 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:29:53,655 INFO 40750 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:30:14,978 INFO 40880 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:30:14,978 INFO 40880 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:30:14,978 INFO 40880 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:30:26,663 INFO 40935 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:30:26,664 INFO 40935 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:30:26,664 INFO 40935 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:31:16,520 INFO 41198 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:31:16,520 INFO 41198 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:31:16,520 INFO 41198 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:39:14,418 INFO 43709 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:39:14,418 INFO 43709 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:39:14,418 INFO 43709 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:39:38,437 INFO 43831 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:39:38,437 INFO 43831 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:39:38,437 INFO 43831 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:52:08,078 INFO 47855 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:52:08,078 INFO 47855 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:52:08,078 INFO 47855 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:54:57,147 INFO 48705 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:54:57,147 INFO 48705 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:54:57,147 INFO 48705 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:55:23,371 INFO 48887 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 16476631ms at 2020-11-09 04:30:00.002
+2020-11-08 23:55:23,371 INFO 48887 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 276629ms at 2020-11-09 00:00:00.000
+2020-11-08 23:55:23,371 INFO 48887 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 277629ms at 2020-11-09 00:00:01.000
+2020-11-08 23:55:23,194 INFO 48894 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:55:23,194 INFO 48894 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:55:23,194 INFO 48894 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-08 23:57:27,058 INFO 49552 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-08 23:57:27,058 INFO 49552 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-08 23:57:27,058 INFO 49552 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-09 02:59:57,465 INFO 49552 [Job#16048619974161760738085755451] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2020-11-09 02:59:57,509 INFO 49552 [Job#16048619974161760738085755451] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 27ms. 
+2020-11-09 02:59:57,431 INFO 48887 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 75602578ms at 2020-11-10 00:00:00.008
+2020-11-09 02:59:58,406 INFO 49552 [Job#16048619984051760747943644861] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-11-09 02:59:58,424 INFO 49552 [Job#16048619984051760747943644861] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 18ms. 
+2020-11-09 02:59:58,408 INFO 48887 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 75602595ms at 2020-11-10 00:00:01.003

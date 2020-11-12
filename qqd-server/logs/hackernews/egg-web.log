@@ -1,0 +1,56 @@
+2020-11-11 09:29:27,842 INFO 66329 [egg-logrotator] app logger reload: got log-reload message
+2020-11-11 10:46:11,101 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 12:34:16,685 WARN 66329 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-11 12:34:16,686 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 13:29:02,171 WARN 66329 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-11 13:29:02,171 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 14:22:02,780 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 14:40:02,517 INFO 66329 [-/127.0.0.1/-/12ms SCHEDULE /__schedule?path=/Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/6h/w895_2497rq_3pr28_yddp9h0000gp/T/egg-multipart-tmp/hackernews"
+2020-11-11 14:40:02,523 INFO 66329 [-/127.0.0.1/-/26ms SCHEDULE /__schedule?path=/Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-11-11 16:26:48,583 WARN 66329 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-11 16:26:48,592 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 18:46:15,233 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 18:54:06,185 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 21:52:43,351 WARN 66329 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-11 21:52:43,352 WARN 66329 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-11 22:58:08,946 INFO 29491 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-11 22:58:08,991 INFO 29491 [egg-multipart] stream mode enable
+2020-11-11 22:58:08,991 INFO 29491 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-11 22:58:09,408 INFO 29491 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-11 22:58:09,411 INFO 29491 [egg-security] use methodnoallow middleware
+2020-11-11 22:58:09,413 INFO 29491 [egg-security] use noopen middleware
+2020-11-11 22:58:09,415 INFO 29491 [egg-security] use nosniff middleware
+2020-11-11 22:58:09,417 INFO 29491 [egg-security] use xssProtection middleware
+2020-11-11 22:58:09,419 INFO 29491 [egg-security] use xframe middleware
+2020-11-11 22:58:09,421 INFO 29491 [egg-security] use dta middleware
+2020-11-11 22:58:09,421 INFO 29491 [egg-security] compose 6 middlewares into one security middleware
+2020-11-11 22:58:09,437 INFO 29491 [egg:core] dump config after load, 6ms
+2020-11-11 22:58:09,453 INFO 29491 [egg-watcher:application] watcher start success
+2020-11-11 22:58:09,461 INFO 29491 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 11 2020 22:58:09 GMT+0800 (中國標準時間)
+2020-11-11 22:58:09,475 INFO 29491 [egg:core] dump config after ready, 12ms
+2020-11-11 23:33:27,374 INFO 40096 [egg:logger] init all loggers with options: {"dir":"/Users/zfp/Desktop/react-egg/qqd-server/logs/hackernews","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hackernews-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-11 23:33:27,410 INFO 40096 [egg-multipart] stream mode enable
+2020-11-11 23:33:27,411 INFO 40096 [egg-mysql] connecting root@localhost:3306/qqd-blog
+2020-11-11 23:33:27,782 INFO 40096 [egg-static] starting static serve /public/ -> /Users/zfp/Desktop/react-egg/qqd-server/app/public
+2020-11-11 23:33:27,786 INFO 40096 [egg-security] use methodnoallow middleware
+2020-11-11 23:33:27,788 INFO 40096 [egg-security] use noopen middleware
+2020-11-11 23:33:27,790 INFO 40096 [egg-security] use nosniff middleware
+2020-11-11 23:33:27,792 INFO 40096 [egg-security] use xssProtection middleware
+2020-11-11 23:33:27,793 INFO 40096 [egg-security] use xframe middleware
+2020-11-11 23:33:27,795 INFO 40096 [egg-security] use dta middleware
+2020-11-11 23:33:27,795 INFO 40096 [egg-security] compose 6 middlewares into one security middleware
+2020-11-11 23:33:27,813 INFO 40096 [egg:core] dump config after load, 7ms
+2020-11-11 23:33:27,831 INFO 40096 [egg-watcher:application] watcher start success
+2020-11-11 23:33:27,834 INFO 40096 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 11 2020 23:33:27 GMT+0800 (中國標準時間)
+2020-11-11 23:33:27,842 INFO 40096 [egg:core] dump config after ready, 6ms
+2020-11-12 00:38:49,003 WARN 40096 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-12 01:17:03,245 WARN 40096 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-12 01:17:03,245 WARN 40096 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-12 01:37:17,230 WARN 40096 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-12 02:37:49,149 WARN 40096 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-12 04:38:43,830 WARN 40096 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-12 04:38:43,831 WARN 40096 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-12 06:39:21,086 WARN 40096 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-12 08:40:17,927 WARN 40096 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-12 09:01:57,483 WARN 40096 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-11-12 09:01:57,483 WARN 40096 [ClusterClient:Watcher] follower closed, and try to init it again
