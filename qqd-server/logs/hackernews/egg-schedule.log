@@ -1,9 +1,0 @@
-2020-11-11 14:40:02,493 INFO 66321 [Timer] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49797510ms at 2020-11-12 04:30:00.003
-2020-11-11 14:40:02,497 INFO 66329 [Job#1605076802489897729593639261] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
-2020-11-11 14:40:02,523 INFO 66329 [Job#1605076802489897729593639261] /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 26ms. 
-2020-11-11 22:58:08,990 INFO 29491 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2020-11-11 22:58:08,990 INFO 29491 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2020-11-11 22:58:08,990 INFO 29491 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2020-11-11 23:33:27,409 INFO 40096 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2020-11-11 23:33:27,409 INFO 40096 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2020-11-11 23:33:27,410 INFO 40096 [egg-schedule]: register schedule /Users/zfp/Desktop/react-egg/qqd-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
