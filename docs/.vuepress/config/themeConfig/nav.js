@@ -9,6 +9,8 @@ module.exports = [
       {
         text: '前端文章',
         items: [
+          { text: 'Html', link: '/pages/5d463fbdb172d431/' },
+          { text: 'Css', link: '/pages/5d463fbdb172d432/' },
           { text: 'JavaScript', link: '/pages/8143cc480faf9a11/' },
           { text: 'Vue', link: '/pages/5d463fbdb172d43b/' },
         ],
@@ -37,11 +39,16 @@ module.exports = [
     ],
   },
   {
-    text: '页面',
+    text: 'Java',
     link: '/ui/',
     items: [
-      { text: 'HTML', link: '/pages/8309a5b876fc95e3/' },
-      { text: 'CSS', link: '/pages/0a83b083bdf257cb/' },
+      {
+        text : "Java开发",
+        items: [
+          { text: '接口管理', link: '/pages/0d18e9/' },
+          { text: 'Java基础', link: '/pages/580a97/' }
+        ]
+      }
     ],
   },
   {
